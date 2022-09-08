@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\bin\Debug\net6.0\exemplo_fundamentos.exe
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\bin\Debug\net6.0\exemplo_fundamentos.deps.json
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\bin\Debug\net6.0\exemplo_fundamentos.runtimeconfig.json
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\bin\Debug\net6.0\exemplo_fundamentos.dll
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\bin\Debug\net6.0\exemplo_fundamentos.pdb
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.dll
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\refint\exemplo_fundamentos.dll
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.pdb
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\exemplo_fundamentos.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\livros\BootCamp Dio\C# .Net\exemplo_fundamentos\obj\Debug\net6.0\ref\exemplo_fundamentos.dll
